@@ -19,6 +19,4 @@ Python application that translates English text to Urdu language using MyMemory 
 - Pydroid 3
 
 ## Demo
-Video and screenshots are in submission form.
-
-#CodeAlpha #Python #AI #MNSUAM
+https://drive.google.com/file/d/13P-lNAJ7E1pmJfHJHGkCpMMxcml6G75S/view?usp=drivesdk
